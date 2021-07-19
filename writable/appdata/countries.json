@@ -1,0 +1,1097 @@
+[
+    {
+        "id": "1",
+        "prefix": "af",
+        "countrie": "Afganistán"
+    },
+    {
+        "id": "2",
+        "prefix": "ax",
+        "countrie": "Åland "
+    },
+    {
+        "id": "3",
+        "prefix": "al",
+        "countrie": "Albania"
+    },
+    {
+        "id": "4",
+        "prefix": "de",
+        "countrie": "Alemania"
+    },
+    {
+        "id": "5",
+        "prefix": "ad",
+        "countrie": "Andorra"
+    },
+    {
+        "id": "6",
+        "prefix": "ao",
+        "countrie": "Angola"
+    },
+    {
+        "id": "7",
+        "prefix": "ai",
+        "countrie": "Anguila"
+    },
+    {
+        "id": "8",
+        "prefix": "aq",
+        "countrie": "Antártida"
+    },
+    {
+        "id": "9",
+        "prefix": "sa",
+        "countrie": "Arabia Saudita"
+    },
+    {
+        "id": "10",
+        "prefix": "dz",
+        "countrie": "Argelia"
+    },
+    {
+        "id": "11",
+        "prefix": "ar",
+        "countrie": "Argentina"
+    },
+    {
+        "id": "12",
+        "prefix": "au",
+        "countrie": "Australia"
+    },
+    {
+        "id": "13",
+        "prefix": "at",
+        "countrie": "Austria"
+    },
+    {
+        "id": "14",
+        "prefix": "az",
+        "countrie": "Azerbaiyán"
+    },
+    {
+        "id": "15",
+        "prefix": "bs",
+        "countrie": "Bahamas"
+    },
+    {
+        "id": "16",
+        "prefix": "bd",
+        "countrie": "Bangladesh"
+    },
+    {
+        "id": "17",
+        "prefix": "bb",
+        "countrie": "Barbados"
+    },
+    {
+        "id": "18",
+        "prefix": "bh",
+        "countrie": "Baréin"
+    },
+    {
+        "id": "19",
+        "prefix": "be",
+        "countrie": "Bélgica"
+    },
+    {
+        "id": "20",
+        "prefix": "bz",
+        "countrie": "Belice"
+    },
+    {
+        "id": "21",
+        "prefix": "bj",
+        "countrie": "Benín "
+    },
+    {
+        "id": "22",
+        "prefix": "bm",
+        "countrie": "Bermudas"
+    },
+    {
+        "id": "23",
+        "prefix": "by",
+        "countrie": "Bielorrusia"
+    },
+    {
+        "id": "24",
+        "prefix": "bo",
+        "countrie": "Bolivia"
+    },
+    {
+        "id": "25",
+        "prefix": "ba",
+        "countrie": "Bosnia y Herzegovina"
+    },
+    {
+        "id": "26",
+        "prefix": "bw",
+        "countrie": "Botsuana"
+    },
+    {
+        "id": "27",
+        "prefix": "br",
+        "countrie": "Brasil"
+    },
+    {
+        "id": "28",
+        "prefix": "bn",
+        "countrie": "Brunéi"
+    },
+    {
+        "id": "29",
+        "prefix": "bg",
+        "countrie": "Bulgaria"
+    },
+    {
+        "id": "30",
+        "prefix": "bf",
+        "countrie": "Burkina Faso"
+    },
+    {
+        "id": "31",
+        "prefix": "bi",
+        "countrie": "Burundi"
+    },
+    {
+        "id": "32",
+        "prefix": "bt",
+        "countrie": "Bután "
+    },
+    {
+        "id": "33",
+        "prefix": "cv",
+        "countrie": "Cabo Verde"
+    },
+    {
+        "id": "34",
+        "prefix": "kh",
+        "countrie": "Camboya"
+    },
+    {
+        "id": "35",
+        "prefix": "cm",
+        "countrie": "Camerún"
+    },
+    {
+        "id": "36",
+        "prefix": "ca",
+        "countrie": "Canadá"
+    },
+    {
+        "id": "37",
+        "prefix": "qa",
+        "countrie": "Catar "
+    },
+    {
+        "id": "38",
+        "prefix": "td",
+        "countrie": "Chad"
+    },
+    {
+        "id": "39",
+        "prefix": "cl",
+        "countrie": "Chile "
+    },
+    {
+        "id": "40",
+        "prefix": "cn",
+        "countrie": "China "
+    },
+    {
+        "id": "41",
+        "prefix": "cy",
+        "countrie": "Chipre"
+    },
+    {
+        "id": "42",
+        "prefix": "va",
+        "countrie": "Ciudad del Vaticano"
+    },
+    {
+        "id": "43",
+        "prefix": "co",
+        "countrie": "Colombia"
+    },
+    {
+        "id": "44",
+        "prefix": "km",
+        "countrie": "Comoras"
+    },
+    {
+        "id": "45",
+        "prefix": "cg",
+        "countrie": "Congo "
+    },
+    {
+        "id": "46",
+        "prefix": "kp",
+        "countrie": "Corea del Norte"
+    },
+    {
+        "id": "47",
+        "prefix": "kr",
+        "countrie": "Corea del Sur "
+    },
+    {
+        "id": "48",
+        "prefix": "ci",
+        "countrie": "Costa de Marfil"
+    },
+    {
+        "id": "49",
+        "prefix": "cr",
+        "countrie": "Costa Rica"
+    },
+    {
+        "id": "50",
+        "prefix": "hr",
+        "countrie": "Croacia"
+    },
+    {
+        "id": "51",
+        "prefix": "cu",
+        "countrie": "Cuba"
+    },
+    {
+        "id": "52",
+        "prefix": "cw",
+        "countrie": "Curazao"
+    },
+    {
+        "id": "53",
+        "prefix": "dk",
+        "countrie": "Dinamarca "
+    },
+    {
+        "id": "54",
+        "prefix": "dm",
+        "countrie": "Dominica"
+    },
+    {
+        "id": "55",
+        "prefix": "ec",
+        "countrie": "Ecuador"
+    },
+    {
+        "id": "56",
+        "prefix": "eg",
+        "countrie": "Egipto"
+    },
+    {
+        "id": "57",
+        "prefix": "sv",
+        "countrie": "El Salvador"
+    },
+    {
+        "id": "58",
+        "prefix": "ae",
+        "countrie": "Emiratos Árabes Unidos"
+    },
+    {
+        "id": "59",
+        "prefix": "er",
+        "countrie": "Eritrea"
+    },
+    {
+        "id": "60",
+        "prefix": "gb-sct",
+        "countrie": "Escocia"
+    },
+    {
+        "id": "61",
+        "prefix": "sk",
+        "countrie": "Eslovaquia"
+    },
+    {
+        "id": "62",
+        "prefix": "si",
+        "countrie": "Eslovenia "
+    },
+    {
+        "id": "63",
+        "prefix": "es",
+        "countrie": "España"
+    },
+    {
+        "id": "64",
+        "prefix": "us",
+        "countrie": "Estados Unidos"
+    },
+    {
+        "id": "65",
+        "prefix": "ee",
+        "countrie": "Estonia"
+    },
+    {
+        "id": "66",
+        "prefix": "et",
+        "countrie": "Etiopía"
+    },
+    {
+        "id": "67",
+        "prefix": "ph",
+        "countrie": "Filipinas "
+    },
+    {
+        "id": "68",
+        "prefix": "fi",
+        "countrie": "Finlandia "
+    },
+    {
+        "id": "69",
+        "prefix": "fj",
+        "countrie": "Fiyi"
+    },
+    {
+        "id": "70",
+        "prefix": "fr",
+        "countrie": "Francia"
+    },
+    {
+        "id": "71",
+        "prefix": "ga",
+        "countrie": "Gabón "
+    },
+    {
+        "id": "72",
+        "prefix": "gb-wls",
+        "countrie": "Gales "
+    },
+    {
+        "id": "73",
+        "prefix": "gm",
+        "countrie": "Gambia"
+    },
+    {
+        "id": "74",
+        "prefix": "gh",
+        "countrie": "Ghana "
+    },
+    {
+        "id": "75",
+        "prefix": "gi",
+        "countrie": "Gibraltar "
+    },
+    {
+        "id": "76",
+        "prefix": "gd",
+        "countrie": "Granada"
+    },
+    {
+        "id": "77",
+        "prefix": "gr",
+        "countrie": "Grecia"
+    },
+    {
+        "id": "78",
+        "prefix": "gl",
+        "countrie": "Groenlandia"
+    },
+    {
+        "id": "79",
+        "prefix": "gp",
+        "countrie": "Guadalupe "
+    },
+    {
+        "id": "80",
+        "prefix": "gu",
+        "countrie": "Guam"
+    },
+    {
+        "id": "81",
+        "prefix": "gt",
+        "countrie": "Guatemala "
+    },
+    {
+        "id": "82",
+        "prefix": "gg",
+        "countrie": "Guernsey"
+    },
+    {
+        "id": "83",
+        "prefix": "gn",
+        "countrie": "Guinea"
+    },
+    {
+        "id": "84",
+        "prefix": "gy",
+        "countrie": "Guyana"
+    },
+    {
+        "id": "85",
+        "prefix": "ht",
+        "countrie": "Haití"
+    },
+    {
+        "id": "86",
+        "prefix": "hn",
+        "countrie": "Honduras"
+    },
+    {
+        "id": "87",
+        "prefix": "hk",
+        "countrie": "Hong Kong "
+    },
+    {
+        "id": "88",
+        "prefix": "hu",
+        "countrie": "Hungría"
+    },
+    {
+        "id": "89",
+        "prefix": "in",
+        "countrie": "India "
+    },
+    {
+        "id": "90",
+        "prefix": "id",
+        "countrie": "Indonesia"
+    },
+    {
+        "id": "91",
+        "prefix": "gb-eng",
+        "countrie": "Inglaterra"
+    },
+    {
+        "id": "92",
+        "prefix": "iq",
+        "countrie": "Irak"
+    },
+    {
+        "id": "93",
+        "prefix": "ir",
+        "countrie": "Irán"
+    },
+    {
+        "id": "94",
+        "prefix": "ie",
+        "countrie": "Irlanda"
+    },
+    {
+        "id": "95",
+        "prefix": "bv",
+        "countrie": "Isla Bouvet"
+    },
+    {
+        "id": "96",
+        "prefix": "im",
+        "countrie": "Isla de Man"
+    },
+    {
+        "id": "97",
+        "prefix": "cx",
+        "countrie": "Isla de Navidad"
+    },
+    {
+        "id": "98",
+        "prefix": "nf",
+        "countrie": "Isla Norfolk"
+    },
+    {
+        "id": "99",
+        "prefix": "is",
+        "countrie": "Islandia"
+    },
+    {
+        "id": "100",
+        "prefix": "il",
+        "countrie": "Israel"
+    },
+    {
+        "id": "101",
+        "prefix": "it",
+        "countrie": "Italia"
+    },
+    {
+        "id": "102",
+        "prefix": "jm",
+        "countrie": "Jamaica"
+    },
+    {
+        "id": "103",
+        "prefix": "jp",
+        "countrie": "Japón "
+    },
+    {
+        "id": "104",
+        "prefix": "je",
+        "countrie": "Jersey"
+    },
+    {
+        "id": "105",
+        "prefix": "jo",
+        "countrie": "Jordania"
+    },
+    {
+        "id": "106",
+        "prefix": "kz",
+        "countrie": "Kazajistán"
+    },
+    {
+        "id": "107",
+        "prefix": "ke",
+        "countrie": "Kenia "
+    },
+    {
+        "id": "108",
+        "prefix": "kg",
+        "countrie": "Kirguistán"
+    },
+    {
+        "id": "109",
+        "prefix": "ki",
+        "countrie": "Kiribati"
+    },
+    {
+        "id": "110",
+        "prefix": "xk",
+        "countrie": "Kosovo"
+    },
+    {
+        "id": "111",
+        "prefix": "kw",
+        "countrie": "Kuwait"
+    },
+    {
+        "id": "112",
+        "prefix": "la",
+        "countrie": "Laos"
+    },
+    {
+        "id": "113",
+        "prefix": "ls",
+        "countrie": "Lesoto"
+    },
+    {
+        "id": "114",
+        "prefix": "lv",
+        "countrie": "Letonia"
+    },
+    {
+        "id": "115",
+        "prefix": "lb",
+        "countrie": "Líbano"
+    },
+    {
+        "id": "116",
+        "prefix": "lr",
+        "countrie": "Liberia"
+    },
+    {
+        "id": "117",
+        "prefix": "ly",
+        "countrie": "Libia "
+    },
+    {
+        "id": "118",
+        "prefix": "li",
+        "countrie": "Liechtenstein"
+    },
+    {
+        "id": "119",
+        "prefix": "lt",
+        "countrie": "Lituania"
+    },
+    {
+        "id": "120",
+        "prefix": "lu",
+        "countrie": "Luxemburgo"
+    },
+    {
+        "id": "121",
+        "prefix": "mo",
+        "countrie": "Macao "
+    },
+    {
+        "id": "122",
+        "prefix": "mk",
+        "countrie": "Macedonia del Norte"
+    },
+    {
+        "id": "123",
+        "prefix": "mg",
+        "countrie": "Madagascar"
+    },
+    {
+        "id": "124",
+        "prefix": "my",
+        "countrie": "Malasia"
+    },
+    {
+        "id": "125",
+        "prefix": "mw",
+        "countrie": "Malawi"
+    },
+    {
+        "id": "126",
+        "prefix": "mv",
+        "countrie": "Maldivas"
+    },
+    {
+        "id": "127",
+        "prefix": "ml",
+        "countrie": "Malí"
+    },
+    {
+        "id": "128",
+        "prefix": "mt",
+        "countrie": "Malta"
+    },
+    {
+        "id": "129",
+        "prefix": "ma",
+        "countrie": "Marruecos"
+    },
+    {
+        "id": "130",
+        "prefix": "mq",
+        "countrie": "Martinica"
+    },
+    {
+        "id": "131",
+        "prefix": "mu",
+        "countrie": "Mauricio"
+    },
+    {
+        "id": "132",
+        "prefix": "mr",
+        "countrie": "Mauritania"
+    },
+    {
+        "id": "133",
+        "prefix": "yt",
+        "countrie": "Mayotte"
+    },
+    {
+        "id": "134",
+        "prefix": "mx",
+        "countrie": "México"
+    },
+    {
+        "id": "135",
+        "prefix": "fm",
+        "countrie": "Micronesia"
+    },
+    {
+        "id": "136",
+        "prefix": "md",
+        "countrie": "Moldavia"
+    },
+    {
+        "id": "137",
+        "prefix": "mc",
+        "countrie": "Mónaco"
+    },
+    {
+        "id": "138",
+        "prefix": "mn",
+        "countrie": "Mongolia"
+    },
+    {
+        "id": "139",
+        "prefix": "me",
+        "countrie": "Montenegro"
+    },
+    {
+        "id": "140",
+        "prefix": "ms",
+        "countrie": "Montserrat"
+    },
+    {
+        "id": "141",
+        "prefix": "mz",
+        "countrie": "Mozambique"
+    },
+    {
+        "id": "142",
+        "prefix": "mm",
+        "countrie": "Myanmar"
+    },
+    {
+        "id": "143",
+        "prefix": "na",
+        "countrie": "Namibia"
+    },
+    {
+        "id": "144",
+        "prefix": "nr",
+        "countrie": "Nauru"
+    },
+    {
+        "id": "145",
+        "prefix": "np",
+        "countrie": "Nepal "
+    },
+    {
+        "id": "146",
+        "prefix": "ni",
+        "countrie": "Nicaragua "
+    },
+    {
+        "id": "147",
+        "prefix": "ne",
+        "countrie": "Níger "
+    },
+    {
+        "id": "148",
+        "prefix": "ng",
+        "countrie": "Nigeria"
+    },
+    {
+        "id": "149",
+        "prefix": "nu",
+        "countrie": "Niue"
+    },
+    {
+        "id": "150",
+        "prefix": "no",
+        "countrie": "Noruega"
+    },
+    {
+        "id": "151",
+        "prefix": "nc",
+        "countrie": "Nueva Caledonia"
+    },
+    {
+        "id": "152",
+        "prefix": "nz",
+        "countrie": "Nueva Zelanda"
+    },
+    {
+        "id": "153",
+        "prefix": "om",
+        "countrie": "Omán"
+    },
+    {
+        "id": "154",
+        "prefix": "nl",
+        "countrie": "Países Bajos"
+    },
+    {
+        "id": "155",
+        "prefix": "pk",
+        "countrie": "Pakistán"
+    },
+    {
+        "id": "156",
+        "prefix": "pw",
+        "countrie": "Palaos"
+    },
+    {
+        "id": "157",
+        "prefix": "ps",
+        "countrie": "Palestina"
+    },
+    {
+        "id": "158",
+        "prefix": "pa",
+        "countrie": "Panamá"
+    },
+    {
+        "id": "159",
+        "prefix": "pg",
+        "countrie": "Papúa Nueva Guinea"
+    },
+    {
+        "id": "160",
+        "prefix": "py",
+        "countrie": "Paraguay"
+    },
+    {
+        "id": "161",
+        "prefix": "pe",
+        "countrie": "Perú"
+    },
+    {
+        "id": "162",
+        "prefix": "pf",
+        "countrie": "Polinesia Francesa"
+    },
+    {
+        "id": "163",
+        "prefix": "pl",
+        "countrie": "Polonia"
+    },
+    {
+        "id": "164",
+        "prefix": "pt",
+        "countrie": "Portugal"
+    },
+    {
+        "id": "165",
+        "prefix": "pr",
+        "countrie": "Puerto Rico"
+    },
+    {
+        "id": "166",
+        "prefix": "gb",
+        "countrie": "Reino Unido"
+    },
+    {
+        "id": "167",
+        "prefix": "cf",
+        "countrie": "República Centroafricana"
+    },
+    {
+        "id": "168",
+        "prefix": "cz",
+        "countrie": "República Checa"
+    },
+    {
+        "id": "169",
+        "prefix": "do",
+        "countrie": "República Dominicana"
+    },
+    {
+        "id": "170",
+        "prefix": "rw",
+        "countrie": "Ruanda"
+    },
+    {
+        "id": "171",
+        "prefix": "ro",
+        "countrie": "Rumania"
+    },
+    {
+        "id": "172",
+        "prefix": "ru",
+        "countrie": "Rusia "
+    },
+    {
+        "id": "173",
+        "prefix": "eh",
+        "countrie": "Sahara Occidental"
+    },
+    {
+        "id": "174",
+        "prefix": "ws",
+        "countrie": "Samoa "
+    },
+    {
+        "id": "175",
+        "prefix": "as",
+        "countrie": "Samoa Americana"
+    },
+    {
+        "id": "176",
+        "prefix": "bl",
+        "countrie": "San Bartolomé "
+    },
+    {
+        "id": "177",
+        "prefix": "kn",
+        "countrie": "San Cristóbal y Nieves"
+    },
+    {
+        "id": "178",
+        "prefix": "sm",
+        "countrie": "San Marino"
+    },
+    {
+        "id": "179",
+        "prefix": "sn",
+        "countrie": "Senegal"
+    },
+    {
+        "id": "180",
+        "prefix": "rs",
+        "countrie": "Serbia"
+    },
+    {
+        "id": "181",
+        "prefix": "sc",
+        "countrie": "Seychelles"
+    },
+    {
+        "id": "182",
+        "prefix": "sl",
+        "countrie": "Sierra Leona"
+    },
+    {
+        "id": "183",
+        "prefix": "sg",
+        "countrie": "Singapur"
+    },
+    {
+        "id": "184",
+        "prefix": "sy",
+        "countrie": "Siria "
+    },
+    {
+        "id": "185",
+        "prefix": "so",
+        "countrie": "Somalia"
+    },
+    {
+        "id": "186",
+        "prefix": "lk",
+        "countrie": "Sri Lanka "
+    },
+    {
+        "id": "187",
+        "prefix": "sz",
+        "countrie": "Suazilandia"
+    },
+    {
+        "id": "188",
+        "prefix": "za",
+        "countrie": "Sudáfrica "
+    },
+    {
+        "id": "189",
+        "prefix": "sd",
+        "countrie": "Sudán"
+    },
+    {
+        "id": "190",
+        "prefix": "ss",
+        "countrie": "Sudán del Sur "
+    },
+    {
+        "id": "191",
+        "prefix": "se",
+        "countrie": "Suecia"
+    },
+    {
+        "id": "192",
+        "prefix": "ch",
+        "countrie": "Suiza"
+    },
+    {
+        "id": "193",
+        "prefix": "sr",
+        "countrie": "Surinam"
+    },
+    {
+        "id": "194",
+        "prefix": "sj",
+        "countrie": "Svalbard y Jan Mayen"
+    },
+    {
+        "id": "195",
+        "prefix": "th",
+        "countrie": "Tailandia "
+    },
+    {
+        "id": "196",
+        "prefix": "tw",
+        "countrie": "Taiwán"
+    },
+    {
+        "id": "197",
+        "prefix": "tz",
+        "countrie": "Tanzania"
+    },
+    {
+        "id": "198",
+        "prefix": "tj",
+        "countrie": "Tayikistán"
+    },
+    {
+        "id": "199",
+        "prefix": "tl",
+        "countrie": "Timor Oriental"
+    },
+    {
+        "id": "200",
+        "prefix": "tg",
+        "countrie": "Togo"
+    },
+    {
+        "id": "201",
+        "prefix": "tk",
+        "countrie": "Tokelau"
+    },
+    {
+        "id": "202",
+        "prefix": "to",
+        "countrie": "Tonga "
+    },
+    {
+        "id": "203",
+        "prefix": "tt",
+        "countrie": "Trinidad y Tobago "
+    },
+    {
+        "id": "204",
+        "prefix": "tn",
+        "countrie": "Túnez "
+    },
+    {
+        "id": "205",
+        "prefix": "tm",
+        "countrie": "Turkmenistán"
+    },
+    {
+        "id": "206",
+        "prefix": "tr",
+        "countrie": "Turquía"
+    },
+    {
+        "id": "207",
+        "prefix": "tv",
+        "countrie": "Tuvalu"
+    },
+    {
+        "id": "208",
+        "prefix": "ua",
+        "countrie": "Ucrania"
+    },
+    {
+        "id": "209",
+        "prefix": "ug",
+        "countrie": "Uganda"
+    },
+    {
+        "id": "210",
+        "prefix": "uy",
+        "countrie": "Uruguay"
+    },
+    {
+        "id": "211",
+        "prefix": "uz",
+        "countrie": "Uzbekistán"
+    },
+    {
+        "id": "212",
+        "prefix": "vu",
+        "countrie": "Vanuatu"
+    },
+    {
+        "id": "213",
+        "prefix": "ve",
+        "countrie": "Venezuela "
+    },
+    {
+        "id": "214",
+        "prefix": "vn",
+        "countrie": "Vietnam"
+    },
+    {
+        "id": "215",
+        "prefix": "wf",
+        "countrie": "Wallis y Futuna"
+    },
+    {
+        "id": "216",
+        "prefix": "ye",
+        "countrie": "Yemen"
+    },
+    {
+        "id": "217",
+        "prefix": "dj",
+        "countrie": "Yibuti"
+    },
+    {
+        "id": "218",
+        "prefix": "zm",
+        "countrie": "Zambia"
+    },
+    {
+        "id": "219",
+        "prefix": "zw",
+        "countrie": "Zimbabue"
+    }
+]
